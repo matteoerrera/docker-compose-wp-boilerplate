@@ -1,0 +1,11 @@
+.DS_Store
+db_data
+plugins
+themes/index.php
+themes/twentyfifteen
+themes/twentyseventeen
+themes/twentysixteen
+uploads/
+.idea
+
+
