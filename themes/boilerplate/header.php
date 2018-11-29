@@ -11,7 +11,6 @@
     <meta name="theme-color" content="#232843" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" type="text/css">
     <link rel="icon" href="<?php echo get_template_directory_uri().'/favicon.png' ?>">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
